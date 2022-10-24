@@ -1,0 +1,9 @@
+joblib
+matplotlib
+pandas
+seaborn
+streamlit
+numpy
+scikit-learn==1.0.2
+imblearn
+xgboost==0.90
